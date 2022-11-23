@@ -1,0 +1,15 @@
+C:\Geekbrains\seminar21112022\.gitignore\bin\Debug\net7.0\.gitignore.exe
+C:\Geekbrains\seminar21112022\.gitignore\bin\Debug\net7.0\.gitignore.deps.json
+C:\Geekbrains\seminar21112022\.gitignore\bin\Debug\net7.0\.gitignore.runtimeconfig.json
+C:\Geekbrains\seminar21112022\.gitignore\bin\Debug\net7.0\.gitignore.dll
+C:\Geekbrains\seminar21112022\.gitignore\bin\Debug\net7.0\.gitignore.pdb
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.csproj.AssemblyReference.cache
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.AssemblyInfoInputs.cache
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.AssemblyInfo.cs
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.csproj.CoreCompileInputs.cache
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.dll
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\refint\.gitignore.dll
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.pdb
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\.gitignore.genruntimeconfig.cache
+C:\Geekbrains\seminar21112022\.gitignore\obj\Debug\net7.0\ref\.gitignore.dll
