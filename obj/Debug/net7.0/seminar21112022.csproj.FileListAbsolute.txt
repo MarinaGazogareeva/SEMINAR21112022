@@ -1,0 +1,15 @@
+C:\Geekbrains\seminar21112022\bin\Debug\net7.0\seminar21112022.exe
+C:\Geekbrains\seminar21112022\bin\Debug\net7.0\seminar21112022.deps.json
+C:\Geekbrains\seminar21112022\bin\Debug\net7.0\seminar21112022.runtimeconfig.json
+C:\Geekbrains\seminar21112022\bin\Debug\net7.0\seminar21112022.dll
+C:\Geekbrains\seminar21112022\bin\Debug\net7.0\seminar21112022.pdb
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.csproj.AssemblyReference.cache
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.AssemblyInfoInputs.cache
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.AssemblyInfo.cs
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.csproj.CoreCompileInputs.cache
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.dll
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\refint\seminar21112022.dll
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.pdb
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\seminar21112022.genruntimeconfig.cache
+C:\Geekbrains\seminar21112022\obj\Debug\net7.0\ref\seminar21112022.dll
